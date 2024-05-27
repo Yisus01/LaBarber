@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)https://www.labarberia.cl/ -->
+<html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>La Barbería - Excelencia y Tradición</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="shortcut icon" href="https://www.labarberia.cl/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://www.labarberia.cl/favicon.ico" type="image/x-icon">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="./compromisoimg_files/vendor.css">
+    <link rel="stylesheet" href="./compromisoimg_files/main.css">
+
+    <!-- scripts -->
+    <script src="./compromisoimg_files/analytics.js.descarga"></script><script src="./compromisoimg_files/modernizr.js.descarga"></script>
+
+  <script type="text/javascript" charset="UTF-8" src="./compromisoimg_files/common.js(1).descarga"></script><script type="text/javascript" charset="UTF-8" src="./compromisoimg_files/util.js(1).descarga"></script></head>
+
+  <body class="loaded" style="margin: 0px;"><div style="position:fixed;top:0px;left:0px;width:0;height:0;" id="scrollzipPoint"></div>
+
+    <!-- LOADER -->
+    <div id="mask" style="display: none;">
+        <div class="loader-minimal"></div>
+    </div>
+
+    <header id="jHeader" class="invert overflow fixed">
+      <nav class="navbar navbar-default" role="navigation">
+
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Desplegar navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://www.labarberia.cl/index.html"><img src="./compromisoimg_files/logo-alt.png" alt="logo"></a>
+        </div>
+
+        <div id="navbar-murdock" class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right invert">
+            <li class=""><a href="https://www.labarberia.cl/#inicio">Inicio</a></li>
+            <li class="active"><a href="https://www.labarberia.cl/#labarberia">Nosotros</a></li>
+            <li><a href="https://www.labarberia.cl/#servicios">Servicios</a></li>
+            <li><a href="https://labarberia.agendapro.com/cl/" target="_blank" class="reserva">Reserva</a></li>
+            <li><a href="https://bit.ly/LB-BarbaLarga" target="_blank">Tienda Online</a></li>
+            <li><a href="https://www.labarberia.cl/#contacto">Contacto</a></li>
+            <li><a href="https://www.facebook.com/labarberiachile/"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://www.instagram.com/labarberiacl/"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://goo.gl/oszUuc"><i class="fa fa-whatsapp"></i></a></li>
+
+          </ul>
+        </div>
+
+      </nav>
+    </header>
+
+
+
+    <!-- intro -->
+    <!--<section class="intro tiny full-width jIntro" id="anchor00">-->
+    <section class="intro full-width jIntro" id="inicio">
+      <div class="container-full">
+        <div class="row row-no-gutter visible">
+          <div class="col-md-12">
+            <div class="slider-intro">
+              <div id="slides" style="position: relative; overflow: hidden; width: 100%; height: 912px;">
+                <div class="slides-control" style="position: relative; height: 100%; width: 5709px; left: -1903px;"><div class="slides-container" style="margin: 0px; padding: 0px; list-style: none; position: relative; height: 100%;">
+                <div style="display: none; left: 1903px; position: absolute; overflow: hidden; height: 100%; width: 1903px; top: 0px; z-index: 0; opacity: 1;"><img src="./compromisoimg_files/tomas.jpg" alt="slide2" style="backface-visibility: hidden; position: absolute; left: 0px; top: -79px; z-index: -1; max-width: none; height: 1070.44px; width: 1903px;"></div>
+                <div style="display: block; left: 1903px; position: absolute; overflow: hidden; height: 100%; width: 1903px; top: 0px; z-index: 2; opacity: 1;"><img src="./compromisoimg_files/productos-2020.jpg" alt="slide2" style="backface-visibility: hidden; position: absolute; left: 0px; top: -79.22px; z-index: -1; max-width: none; height: 1070.44px; width: 1903px;"></div>
+                <div style="display: none; left: 1903px; position: absolute; overflow: hidden; height: 100%; width: 1903px; top: 0px; z-index: 0; opacity: 1;"><img src="./compromisoimg_files/kevin.jpg" alt="slide2" style="backface-visibility: hidden; position: absolute; left: 0px; top: -79.22px; z-index: -1; max-width: none; height: 1070.44px; width: 1903px;"></div>
+                </div></div>
+              <nav class="slides-pagination"><a href="https://www.labarberia.cl/#1" class="">1</a><a href="https://www.labarberia.cl/#2" class="current">2</a><a href="https://www.labarberia.cl/#3" class="">3</a></nav></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="vcenter text-center text-overlay">
+          <div id="owl-main-text" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+            <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 15224px; left: 0px; display: block; transition: all 0ms ease 0s; transform: translate3d(-1903px, 0px, 0px); transform-origin: 2854.5px center; perspective-origin: 2854.5px center;"><div class="owl-item" style="width: 1903px;"><div class="item">
+              <h1 class="primary-title invert"><span style="color:#000;background:#fff;padding-left:5px;padding-right:5px;font-weight: bold;">NUEVA SUCURSAL </span><strong>Los Dominicos</strong></h1>
+            </div></div><div class="owl-item" style="width: 1903px;"><div class="item">
+              <h1 class="primary-title invert">Tienda<strong>Online</strong></h1>
+            </div></div><div class="owl-item" style="width: 1903px;"><div class="item">
+              <h1 class="primary-title invert">Bienvenidos a<strong>La Barbería</strong></h1>
+            </div></div><div class="owl-item" style="width: 1903px;"><div class="item">
+              <h1 class="primary-title invert">Bienvenidos a<strong>La Barbería</strong></h1>
+            </div></div></div></div>
+            
+            
+            
+          </div>
+          <div class="voffset20"></div>
+          <a href="https://bit.ly/LB-Reservas" target="_blank" class="btn btn-invert">Reserva Aquí</a>
+        </div>
+
+      </div>
+    </section>
+    
+
+
+    
+    <div class="covid19 section">
+      <div class="container">
+        <div class="row visible">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="voffset80"></div>
+            <p class="pretitle">Programa #COVID19</p>
+            <h1 class="title">Plan de Acción</h1>
+            <p class="subtitle">Cuando nos visites deberás cumplir con estas medidas:<br>
+· Asistir siempre con tu mascarilla y sin acompañante.<br>
+· Tomaremos tu temperatura y desinfectaremos tu calzado.<br>
+· Higienizar tus manos al ingreso de cada local con alcohol gel.<br>
+· Pago vía transferencia al barbero. No aceptamos efectivo.<br>
+· Sólo si es necesario, te pediremos ajustar la hora de tu cita.<br>
+· Si no asistirás avísanos con tiempo para liberar el cupo.</p>
+            <ul class="list-horizontal-links">
+              <li><a class="anticipa" href="https://bit.ly/LB-Reservas" target="_blank">anticipa y programa tu atención aquí</a></li>
+            </ul>
+            <div class="voffset90"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- text -->
+    <div id="labarberia"></div>
+    <div class="voffset30"></div>
+    <div class="section">
+      <div class="container">
+        <div class="row visible">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="voffset80"></div>
+            <p class="pretitle">Conócenos</p>
+            <h1 class="title">La Barbería</h1>
+            <p class="subtitle colored">Vive la excelencia y tradición de la barbería clásica con una atención enfocada a satisfacer 100% a nuestros clientes.</p>
+            <ul class="list-horizontal-links">
+              <li><a href="http://www.labarberia.cl/#servicios">nuestros servicios</a></li>
+              <li><a href="https://bit.ly/LB-Reservas" target="_blank">reserva tu hora</a></li>
+            </ul>
+            <div class="voffset90"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- tabs -->
+    <div id="tab" class="container-full tabsmodule">
+      <div class="row row-no-gutter visible">
+        <div class="col-md-6">
+          <div class="banner" id="bg-home-grid0">
+            <!-- <div class="voffset720"></div> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="banner-tabs">
+            <div class=""> <!-- vcenter -->
+              <ul class="list-horizontal-links carousel-tabs">
+                <li class="active"><a href="https://www.labarberia.cl/#">Compromiso</a></li>
+              </ul>
+              <div class="carusel-tabs-text flickity-enabled" tabindex="0">
+                
+              <div class="flickity-viewport" style="height: 364px;"><div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><div class="carousel-cell is-selected" style="position: absolute; left: 0%;">
+                  <h2 class="title invert">Nosotros</h2>
+                  <p>En La Barbería nos hacemos responsables del cuidado integral masculino a través de un servicio de excelencia y arraigado en las antiguas tradiciones, en un ambiente único e inspirado en las clásicas barberías de antaño, con una atención de primer nivel más un amplio catálogo de productos con stock permanente. Experimenta, descubre y vive junto a nosotros el arte de la barbería clásica. ¡Te esperamos!</p>
+                </div></div></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- diagonal -->
+    <div id="servicios" class="section">
+      <div class="container">
+        <div class="row visible">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="voffset110"></div>
+            <p class="pretitle">Experiencia</p>
+            <h1 class="title">Servicios</h1>
+            <p class="subtitle colored">Conoce nuestras especialidades (corte de cabello, perfilado de barba o afeitado al ras) y experimenta el arte de la barbería clásica.</p>
+            <div class="voffset110"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- SERVICIOS -->
+    <div class="section features">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-scissors"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Corte de cabello</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">Asesoría, corte y lavado de cabello. Incluye peinado con pomada a elección <b>$16.990</b></p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-manual-razor"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Perfilado de barba</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">Asesoría, arreglo de barba, aplicación de toalla caliente, aceite y limpieza facial <b>$16.990</b></p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-brush"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Afeitado al ras</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">Rasurado con toalla caliente, crema de afeitar y navaja más after shave <b>$16.990</b></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="voffset80"></div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-barber-chair"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Servicio completo</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">Disfruta el corte de cabello más el perfilado de barba a un precio preferencial <b>$26.990</b></p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-barber-shop-light"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Gift Card</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">Es la solución ideal para ese regalo especial. Canjéala por cualquier servicio nuestro <a href="https://www.barbalarga.cl/compra-aqui/la-barberia" target="_blank">aquí</a></p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="horizontal-border fadeInUp">
+              <div class="voffset40"></div>
+              <i class="icon-barber-shop"></i>
+              <div class="voffset40"></div>
+              <h4 class="titlefeat">Empleos</h4>
+              <div class="voffset30"></div>
+              <p class="textfeat">¿Te gustaría trabajar en La Barbería? Envía tu CV a: info@labarberia.cl</p>
+            </div>
+          </div>
+         
+
+        </div>
+
+        <div class="voffset110"></div>
+      </div>
+    </div>
+
+
+    <!-- team
+    <div id="barberos" class="section meet-the-team">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="voffset100"></div>
+            <p class="pretitle center">La Barber&iacute;a</p>
+            <h1 class="title center-horizontal">Equipo</h1>
+          </div>
+          <div class="col-md-8 col-md-offset-2">
+            <p class="subtitle colored">Un selecto grupo de profesionales altamente capacitado te asesorará para definir el look y estilo que mejor te defina.</p>
+            <div class="voffset80"></div>
+          </div>
+        </div>
+
+        <div class="row row-no-gutter">
+
+          <div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/larry.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Larry</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/kathy.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Kathy</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+         <!-- <div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/juank.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Juank</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+              <!--<div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/wilson.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Wilson</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/roger.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Roger</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/monse.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Monse</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/maty.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Maty</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/angie.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Angie</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+             <!-- <div class="voffset30"></div>
+            </div>
+          </div>
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/bastian.png" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Bastián B.</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+            <!--  <div class="voffset30"></div>
+            </div>
+          </div>
+          <!--<div class="col-sm-3 fadeInUp">
+            <div class="team-member">
+              <img src="images/team2018/labarberia.jpg" alt="">
+              <div class="voffset20"></div>
+              <h4 class="name-member">Bastian R.</h4>
+              <!--<p class="position-member">@larrybarbercl</p>
+              <ul class="list-social">
+                <li><a target="_blank" href="https://www.instagram.com/larrybarbercl/"><i class="fa fa-instagram"></i></a></li>
+              </ul>-->
+            <!--  <div class="voffset30"></div>
+            </div>
+          </div>
+
+
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="voffset100"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- diagonal
+    <div id="reserva" class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="voffset110"></div>
+            <p class="pretitle">Experiencia</p>
+            <h1 class="title">Reserva tu hora</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+-->
+
+<!--
+    <div class="section reserva">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <iframe src="https://pro.co/iframe/overview/SzlJeWNQaUtFTUlkdW1mcWF2V3hzdz09LS05eTA5TXJGZUdaTVV6YThsWmJrOUxBPT0=--e8a3bf116f95600f3eb9f8c908e39b83f463c866" width="100%" height="850" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes" style="border-width:0px;" ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+-->
+
+
+    <!-- about parallx -->
+    <div class="banner full parallax-section" data-parallax-image="images/demo/home/parallax-about.jpg" style="background: url(&quot;images/demo/home/parallax-about.jpg&quot;) center center fixed;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="voffset110"></div>
+            <h1 class="title colored invert">Sucursales</h1>
+            <div class="voffset10"></div>
+            <p class="subtitle invert">Asegura y agenda tu cita con tiempo</p>
+            <div class="separator invert"></div>
+            <p class="subtitle small invert">Príncipe de Gales 5921, local 103, La Reina.</p>
+            <p class="subtitle small invert">Manuel Montt 1221, local 202, Providencia.</p>
+                        <p class="subtitle small invert">Padre Hurtado Central 1531, local 2B, Las Condes.</p>
+
+            <div class="voffset140"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sponsors -->
+    <div class="section review">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="voffset90"></div>
+            <p class="pretitle">Sponsors</p>
+            <!--<h2 class="subtitle colored big">servicio + cortesía = excelencia</h2>-->
+            <div class="voffset30"></div>
+            <ul class="clients-inline margin-bottom-clients">
+
+              <li><img src="./compromisoimg_files/triumph.jpg" alt=""></li>
+              <li><img src="./compromisoimg_files/catolica.jpg" alt=""></li>
+              <!--<li><img src="images/marcas/mestra.jpg" alt=""></li>-->
+              <li><img src="./compromisoimg_files/lucaffe.jpg" alt=""></li>
+            </ul>
+            <ul class="clients-inline">
+              <li><img src="./compromisoimg_files/capt.jpg" alt=""></li>
+              <li><img src="./compromisoimg_files/krwn.jpg" alt=""></li>
+              <li><img src="./compromisoimg_files/barberstrong.jpg" alt=""></li>
+              <li><img src="./compromisoimg_files/zuka.jpg" alt=""></li>
+            </ul>
+            <div class="voffset50"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Sponsors -->
+    <div class="section review">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="voffset50"></div>
+            <p class="pretitle">Convenios</p>
+            <!--<h2 class="subtitle colored big">servicio + cortesía = excelencia</h2>-->
+            <div class="voffset30"></div>
+            <ul class="clients-inline">
+              <!--<li><img src="images/demo/convenios/bancobice.jpg" alt=""></li>-->
+              <li><img src="./compromisoimg_files/grange.jpg" alt=""></li>
+              <li><img src="./compromisoimg_files/cruzados.jpg" alt=""></li>
+            </ul>
+            <div class="voffset90"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====================================================================================================
+        INSTAGRAM FEED
+    ==================================================================================================== -->
+<!--
+    <div id="instagram-feed">
+      <div class="container">
+        <p class="pretitle">Instagram</p>
+        <div class="voffset30"></div>
+        <div class="instagram-items"></div>
+        <div class="voffset50"></div>
+      </div>
+    </div>
+    -->
+
+    <!-- ====================================================================================================
+		    CONTACTO
+    ==================================================================================================== -->
+    <div id="contacto" class="section">
+      <div class="container container-full">
+        <div class="row row-no-gutter">
+          <div class="col-md-4 bg-cream mapa1">
+            <!-- <div id="map"></div> -->
+            <iframe src="./compromisoimg_files/embed.html" width="100%" height="800" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+          </div>
+          
+          <div class="col-md-4 bg-cream mapa2">
+            <!-- <div id="map"></div> -->
+            <iframe src="./compromisoimg_files/embed(1).html" width="100%" height="800" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+          </div>
+          <div class="col-md-4 mapa3">
+            <!-- <div id="map"></div> -->
+            <iframe src="./compromisoimg_files/embed(2).html" width="100%" height="800" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+          </div>
+          <div class="col-md-6">
+            <div class="contact-basic">
+              <div class="voffset400"></div>
+              <div class="vcenter text-center">
+                <p class="pretitle">teléfono</p>
+                <div class="voffset20"></div>
+                <p><a href="tel:56989750668">+56 9 8975 0668</a></p><p>
+                </p><div class="voffset50"></div>
+                <p class="pretitle">whatsapp</p>
+                <div class="voffset20"></div>
+                <p><a href="https://goo.gl/oszUuc">+56 9 8975 0668</a></p><a href="https://goo.gl/oszUuc">
+                <div class="voffset50"></div>
+                <p class="pretitle">email</p>
+                <div class="voffset20"></div>
+                </a><p><a href="https://goo.gl/oszUuc"></a><a href="mailto:info@abarberia.cl" class="mailto">info@labarberia.cl</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="contact-form bg-cream">
+              <div class="voffset400"></div>
+              <div class="vcenter text-center">
+                <p class="pretitle">contacto</p>
+                <div class="voffset40"></div>
+                <form action="https://www.labarberia.cl/mail.php" method="post" id="contact-form-validate" novalidate="novalidate">
+                  <div class="form-group inline">
+                    <input type="text" class="form-control" id="inputName" name="fullname" placeholder="nombre">
+                  </div>
+                  <div class="form-group inline">
+                    <input type="email" class="form-control" id="inputEmail" name="email" placeholder="email">
+                  </div>
+                  <div class="form-group">
+                    <textarea class="form-control" rows="3" id="inputMessage" name="message" placeholder="mensaje"></textarea>
+                  </div>
+                  <div class="voffset20"></div>
+                  <button type="submit" class="btn btn-arrow">Enviar</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ====================================================================================================
+     SIGUENOS
+    ==================================================================================================== -->
+
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="voffset80"></div>
+            <p class="pretitle">Síguenos en nuestras Redes Sociales</p>
+            <ul class="social-links">
+              <li><a target="_blank" href="https://www.facebook.com/labarberiachile/"><i class="fa fa-facebook"></i></a></li>
+              <!--
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+              -->
+              <li><a target="_blank" href="https://www.instagram.com/labarberiacl/"><i class="fa fa-instagram"></i></a></li>
+              <li><a target="_blank" href="https://goo.gl/oszUuc" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer-barberia">
+      <!--<div class="container-fluid">
+        <div class="voffset30"></div>
+        <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="voffset30"></div>
+            <img src="images/demo/footer-logo.png" alt="logo">
+            <div class="voffset20"></div>
+            <p>Elegancia y Tradición en tu corte de cabello, perfilado de barba o afeitado al ras.</p>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="voffset30"></div>
+            <h5 class="title-small">Nosotros</h5>
+            <div class="voffset20"></div>
+            <ul class="list-menu">
+              	<li class="active"><a href="#inicio">Inicio</a></li>
+	            <li><a href="#labarberia">La Barbería</a></li>
+	            <li><a href="#servicios">Servicios</a></li>
+	            <li><a href="#barberos">Barberos</a></li>
+	            <li><a href="https://labarberia.agendapro.com/cl/" target="_blank" >Reserva</a></li>
+	            <li><a href="#contacto">Contacto</a></li>
+
+            </ul>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="voffset30"></div>
+            <h5 class="title-small">Reservas</h5>
+            <div class="voffset20"></div>
+            <p class="contact-link fa fa-envelope-o">info@labarberia.cl</p>
+            <p class="contact-link fa fa-mobile"> <a href="tel:56572213105">+56 5 7221 3105</a> <p>
+            <p class="contact-link fa fa-map-marker">Av. Manuel Montt 1221, local 202, <br> Providencia </p>
+            <p class="contact-link fa fa-map-marker">Príncipe de Gales 5921, local 103, <br> La Reina </p>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="voffset30"></div>
+            <h5 class="title-small">Beneficios</h5>
+            <div class="voffset20"></div>
+            <p class="info-newsletter">Suscríbete al Newsletter para recibir nuestras últimas noticias</p>
+            <div class="voffset20"></div>
+            <form id="contactform" class="contact-form">
+              <input type="email" id="email" name="email" placeholder="email" class="required email">
+              <input type="submit" class="btn btn--alt" value=">">
+            </form>
+          </div>
+        </div>
+        <div class="voffset30"></div>
+      </div>-->
+      <div class="copyright">
+        <div class="voffset40"></div>
+        <p>Desde 2016. La Barbería © Todos los Derechos Reservados.<!-- <a href="#">learn more</a> / <a href="#">view work</a>--></p>
+        <div class="voffset40"></div>
+      </div>
+    </footer>
+
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='https://www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-110476320-1');ga('send','pageview');
+    </script>
+
+    <script src="./compromisoimg_files/jquery.min.js.descarga"></script>
+    <script src="./compromisoimg_files/flickity.pkgd.min.js.descarga"></script>
+    <script src="./compromisoimg_files/twitterFetcher_min.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.parallax.min.js.descarga"></script>
+    <script src="./compromisoimg_files/isotope.pkgd.min.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.superslides.min.js.descarga"></script>
+    <script src="./compromisoimg_files/owl.carousel.min.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.inview.min.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.numscroller-1.0.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.plugin.min.js.descarga"></script>
+    <script src="./compromisoimg_files/jquery.countdown.min.js.descarga"></script>
+
+    <script src="./compromisoimg_files/jquery.validate.min.js.descarga"></script>
+    <script src="./compromisoimg_files/additional-methods.js.descarga"></script>
+    <script src="./compromisoimg_files/main.js.descarga"></script>
+
+    <script src="./compromisoimg_files/bootstrap.js.descarga"></script>
+
+    <!-- Google maps -->
+    <script src="./compromisoimg_files/js(3)"></script>
+    <script src="./compromisoimg_files/map.js(2).descarga"></script>
+
+
+</body></html>
