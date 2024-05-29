@@ -14,10 +14,10 @@
     bottom: 0;
     right: 0;
     left: 0;
-    background-size: auto;
+    background-size: cover;
     width: 100%;
     opacity: 0.9;
-    /* height: 100rem; */
+    height: 100%;
 }
 .headerdiv{
     display: flex;
@@ -29,20 +29,18 @@
     bottom: 18rem;
 }
 .headerdiv__enlaces{
-    margin-left: 40rem;
+    /* margin-left: 40rem; */
     position: relative;
     bottom: 14rem;
+    /* background-color: black; */
+    left: 43rem;
 }
 .headerdiv__enlaces a{
-    margin-left: 3rem;
+    margin-left: 2rem;
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-size: 20px;
     /* font-weight: bold; */
-    
-}
-.headerdiv__enlaces a:nth-last-of-type(6){
-    border-bottom: 3px solid #B59472;
 }
 .headerdiv__rs{
     margin-top: 4rem;
@@ -51,7 +49,9 @@
     color: #F7F7F7;
     margin-left: 2.5rem;
     position: relative;
-    bottom: 17.6rem;
+    bottom: 17.8rem;
+    left: 42rem;
+    /* color: red; */
 }
 .headerdiv__rs i:hover{
     cursor: pointer;
@@ -423,4 +423,221 @@ footer{
     transition: 0.2s;
 }
 
+
+/*RESPONSIVE*/
+
+@media only screen and (max-width: 768px) {
+    .headerimage {
+        height: 10rem; /* Altura ajustada para celulares */
+    }
+    .headerdiv__enlaces, .headerdiv__rs{
+        display: none;
+    }
+    .header__reserva {
+        margin-left: auto; /* Elimina el margen izquierdo */
+        margin-right: auto; /* Elimina el margen derecho */
+        width: 80%; /* Cambia el ancho para adaptarse al tamaño de la pantalla */
+        bottom: 0; /* Coloca el elemento en la parte inferior */
+    }
+    .accion__covid,
+    .accion__plan,
+    .accion__ul,
+    .accion__a {
+        margin-left: 0; /* Elimina el margen izquierdo */
+        margin-right: 0; /* Elimina el margen derecho */
+        width: 100%; /* Ajusta el ancho al 100% */
+        font-size: 18px; /* Ajusta el tamaño de fuente */
+    }
+    .accion__a {
+        width: 80%; /* Reduzca el ancho del botón */
+        margin: 0 auto; /* Centra horizontalmente */
+    }
+    .conocenos__conocenos,
+    .conocenos__titulo,
+    .conocenos__p,
+    .conocenos__a {
+        font-size: 18px; /* Ajusta el tamaño de fuente */
+    }
+    .servicios {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr); /* Cambia a una sola columna en pantallas pequeñas */
+        gap: 20px; /* Agrega espacio entre las tarjetas */
+    }
+    .servicios__card img {
+        width: 5rem;
+        margin: 0 auto; /* Centra la imagen horizontalmente */
+    }
+    
+    .servicios__card {
+        text-align: center;
+        margin-top: 3rem;
+    }
+    
+    .servicios__card h3 {
+        margin-top: 1.5rem;
+        font-weight: bold;
+        font-size: 1.2rem; /* Tamaño de fuente ajustado para pantallas pequeñas */
+    }
+    
+    .servicios__card p {
+        margin-top: 1.5rem;
+        font-size: 0.9rem; /* Tamaño de fuente ajustado para pantallas pequeñas */
+    }
+    .intento__titulo {
+        top: 5rem; /* Ajusta la posición del título para pantallas pequeñas */
+    }
+
+    .intento__titulo h2 {
+        font-size: 2rem; /* Ajusta el tamaño del título para pantallas pequeñas */
+    }
+    .sponsors {
+        margin-left: 5%; /* Ajuste para centrar el contenedor */
+        margin-right: 5%; /* Ajuste para centrar el contenedor */
+    }
+
+    .sponsors__primer,
+    .sponsors__segun,
+    .sponsors__tercer {
+        margin-left: 0; /* Elimina el margen izquierdo */
+        margin-right: 0; /* Elimina el margen derecho */
+    }
+
+    .sponsors__primer img,
+    .sponsors__segun img,
+    .sponsors__tercer img {
+        width: 6rem; /* Reducir el tamaño de las imágenes para pantallas pequeñas */
+        margin-left: 1rem; /* Reducir el espacio entre las imágenes */
+    }
+    .maps {
+        display: none;
+    }
+    .contactoindex {
+        grid-template-columns: 1fr; /* Cambia a una sola columna en pantallas pequeñas */
+    }
+    .rsindex {
+        margin-top: 3rem; /* Reduce el margen superior en pantallas pequeñas */
+        margin-bottom: 3rem; /* Reduce el margen inferior en pantallas pequeñas */
+    }
+
+    .rsindex i {
+        margin-left: 0; /* Elimina el margen izquierdo en pantallas pequeñas */
+        display: block; /* Muestra los iconos en bloques para centrarlos */
+        margin: 0 auto; /* Centra horizontalmente los iconos */
+    }
+
+    footer {
+        padding-top: 1.5rem; /* Ajusta el relleno superior del pie de página en pantallas pequeñas */
+        padding-bottom: 1.5rem; /* Ajusta el relleno inferior del pie de página en pantallas pequeñas */
+    }
+    .compromiso {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr); /* Cambia a una sola columna en pantallas pequeñas */
+    }
+    
+    .compromiso__img img {
+        width: 100%; /* Ancho del 100% para adaptarse al contenedor */
+        height: auto; /* Altura automática para mantener la proporción */
+    }
+    
+    .compromiso__compromiso {
+        color: white;
+        background-color: black;
+        width: 100%; /* Ancho del 100% para adaptarse al contenedor */
+    }
+    
+    .compromiso__compromiso p:nth-of-type(1) {
+        width: 100%; /* Ancho del 100% para ocupar toda la línea */
+        border-bottom: 3px solid white;
+        color: #B59472;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 4rem;
+        margin-left: 0; /* Elimina el margen izquierdo */
+    }
+    
+    .compromiso__compromiso h2 {
+        font-size: 40px;
+        margin-left: 0; /* Elimina el margen izquierdo */
+    }
+    
+    .compromiso__p {
+        width: 100%; /* Ancho del 100% para ocupar toda la línea */
+        text-align: center; /* Centra el texto */
+        font-size: 23px;
+        margin-left: 0; /* Elimina el margen izquierdo */
+        margin-top: 3rem;
+    }
+}
+
+
+
+/* Media query para dispositivos con un ancho máximo de 1024px, como notebooks */
+@media only screen and (max-width: 1024px) {
+    .headerimage {
+        height: 15rem; /* Altura ajustada para notebooks */
+    }
+    .headerdiv__enlaces a {
+        margin-left: 1.5rem; /* Reducir el margen izquierdo para celulares */
+        font-size: 16px; /* Reducir el tamaño de fuente para celulares */
+    }
+
+    .headerdiv__logo {
+        margin-left: 3rem; /* Ajustar el margen izquierdo para notebooks */
+        bottom: 16rem; /* Ajustar la posición hacia abajo para notebooks */
+    }
+
+    .headerdiv__enlaces {
+        margin-left: 20rem; /* Ajustar el margen izquierdo para notebooks */
+        bottom: 12rem; /* Ajustar la posición hacia abajo para notebooks */
+    }
+
+    .headerdiv__enlaces a {
+        margin-left: 2rem; /* Ajustar el margen izquierdo para notebooks */
+        font-size: 18px; /* Ajustar el tamaño de fuente para notebooks */
+    }
+    .header__reserva {
+        margin-left: 20%; /* Ajusta el margen izquierdo */
+    }
+
+    .accion__plan {
+        width: 60%; /* Ajusta el ancho para pantallas medianas */
+        margin: 0 auto; /* Centra horizontalmente */
+    }
+
+    .accion__a {
+        width: 50%; /* Reduzca el ancho del botón */
+    }
+    .conocenos__a {
+        margin-left: 0; /* Elimina el margen izquierdo */
+        margin-top: 10px; /* Añade un espacio entre los enlaces */
+    }
+
+    .compromiso {
+        grid-template-columns: repeat(2, 1fr); /* Cambia de nuevo a dos columnas */
+    }
+
+    .compromiso__compromiso {
+        width: 90%; /* Ajusta el ancho para pantallas medianas */
+        margin: 0 auto; /* Centra horizontalmente */
+    }
+
+    .compromiso__img img {
+        width: 100%; /* Ancho del 100% para adaptarse al contenedor */
+        height: auto; /* Altura automática para mantener la proporción */
+    }
+
+    .compromiso__p {
+        text-align: left; /* Alinea el texto a la izquierda */
+    }
+    .servicios {
+        grid-template-columns: repeat(2, 1fr); /* Cambia a dos columnas en pantallas medianas */
+    }
+    .intento__titulo {
+        top: 7rem; /* Ajusta la posición del título para notebooks */
+    }
+
+    .intento__titulo h2 {
+        font-size: 2.5rem; /* Ajusta el tamaño del título para notebooks */
+    }
+}
 
